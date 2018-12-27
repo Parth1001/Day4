@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 Hello World !! 
 This File is created by Vatsal!!
+=======
+<<<<<<< HEAD
+This file is created by Vatsal!!
+Now updated by Akash
+=======
+This file is created by Vatsal!!
+>>>>>>> 5a17868451098c88102761ac28240bd1187cb279
+>>>>>>> ab62c0bb27f76167a1aa56ac34f99033b8f05b58
