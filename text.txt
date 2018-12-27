@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This file is created by Vatsal!!
 Now updated by Akash
+=======
+This file is created by Vatsal!!
+>>>>>>> 5a17868451098c88102761ac28240bd1187cb279
